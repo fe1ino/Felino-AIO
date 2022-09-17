@@ -10,7 +10,7 @@
 ```
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/fe1ino/Felino-AIO?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/fe1ino/Felino-AIO?style=for-the-badge)
-![Discord](https://img.shields.io/badge/DISCORD-FELINO%231111-red?style=for-the-badge)
+![Discord](https://img.shields.io/badge/Discord-Felino%231111-red?style=for-the-badge)
 
 ## Features
 - Auto Purchase Blue Trinket
