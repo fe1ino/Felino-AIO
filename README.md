@@ -1,34 +1,32 @@
 ```
-
-
-   ▄████████    ▄████████  ▄█        ▄█  ███▄▄▄▄    ▄██████▄         ▄████████  ▄█   ▄██████▄  
-  ███    ███   ███    ███ ███       ███  ███▀▀▀██▄ ███    ███       ███    ███ ███  ███    ███ 
-  ███    █▀    ███    █▀  ███       ███▌ ███   ███ ███    ███       ███    ███ ███▌ ███    ███ 
- ▄███▄▄▄      ▄███▄▄▄     ███       ███▌ ███   ███ ███    ███       ███    ███ ███▌ ███    ███ 
-▀▀███▀▀▀     ▀▀███▀▀▀     ███       ███▌ ███   ███ ███    ███     ▀███████████ ███▌ ███    ███ 
-  ███          ███    █▄  ███       ███  ███   ███ ███    ███       ███    ███ ███  ███    ███ 
-  ███          ███    ███ ███▌    ▄ ███  ███   ███ ███    ███       ███    ███ ███  ███    ███ 
+   ▄████████    ▄████████  ▄█        ▄█  ███▄▄▄▄    ▄██████▄         ▄████████  ▄█   ▄██████▄ 
+  ███    ███   ███    ███ ███       ███  ███▀▀▀██▄ ███    ███       ███    ███ ███  ███    ███
+  ███    █▀    ███    █▀  ███       ███▌ ███   ███ ███    ███       ███    ███ ███▌ ███    ███
+ ▄███▄▄▄      ▄███▄▄▄     ███       ███▌ ███   ███ ███    ███       ███    ███ ███▌ ███    ███
+▀▀███▀▀▀     ▀▀███▀▀▀     ███       ███▌ ███   ███ ███    ███     ▀███████████ ███▌ ███    ███
+  ███          ███    █▄  ███       ███  ███   ███ ███    ███       ███    ███ ███  ███    ███
+  ███          ███    ███ ███▌    ▄ ███  ███   ███ ███    ███       ███    ███ ███  ███    ███
   ███          ██████████ █████▄▄██ █▀    ▀█   █▀   ▀██████▀        ███    █▀  █▀    ▀██████▀  
-                          ▀                                                                   
-
-
-[Felino AIO] Release 1.0.4 - Updated 17/9/2022
-
-
-Contents:
-- Felino Legendsense Config file (MenuComponent.save)
-- Felino AIO LUA plugin for Legendsense
-- Preconfigured ADC Champions (Mostly done)
-- Felino Cleaner/AutoLS Tool (Felino.exe)
-
-
-Instructions:
-1. Place MenuComponent in LS/GS/Config
-2. Place Felino AIO folder in LS/GS/tier3
-
-
-Enjoy!
-
-Felino#1111
-https://soundcloud.com/fe1ino
 ```
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/fe1ino/Felino-AIO?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/fe1ino/Felino-AIO?style=for-the-badge)
+![Discord](https://img.shields.io/badge/DISCORD-FELINO%231111-red?style=for-the-badge)
+
+## Features
+- Auto Purchase Blue Trinket
+- Evade Disable Hold Key
+- My Balls UD Bypass
+- Cock Hack
+- Auto Leveler
+- Twerk Exploit
+- Cafe Cuties Annie Exploit
+
+## To-Do List
+- Draw path waypoints
+- APM tracker for enemies
+- Auto attacks to kill enemy tracker
+
+#### Credits
+- AutoLevel code forked from Mistal
+- Evade Disable code forked from Anxaneed
+- Twerk Exploit code forked from Tony
