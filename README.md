@@ -15,9 +15,6 @@
 [Felino AIO] Release 1.0.4 - Updated 17/9/2022
 
 
-
-Thank you for downloading the Felino super secret config for high elo!
-
 Contents:
 - Felino Legendsense Config file (MenuComponent.save)
 - Felino AIO LUA plugin for Legendsense
