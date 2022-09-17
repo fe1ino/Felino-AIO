@@ -26,7 +26,12 @@
 - APM tracker for enemies
 - Auto attacks to kill enemy tracker
 
-#### Credits
+## Extras
+- Felino High-ELO Config
+- Felino.exe Log Cleaner/Auto LS
+
+## Credits
 - AutoLevel code forked from Mistal
 - Evade Disable code forked from Anxaneed
 - Twerk Exploit code forked from Tony
+- Auto LS code forked from LSAGAV
